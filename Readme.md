@@ -16,3 +16,8 @@ v2023.5.1101742258
     
     v                       :   version
     2023.5.1101742258       :   version number
+
+Why it's matter:
+    Recently, vscode always annoy me with their 'XHR failed' feature everytime
+    I want to install extension.
+    
