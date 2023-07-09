@@ -1,3 +1,7 @@
+# Update: Just Use VSCodium with Settings Sync by Shan
+ VSCode are not worth for the hassle
+
+ 
 Link:
 https://marketplace.visualstudio.com/_apis/public/gallery/publishers/{publishers-name}/vsextensions/{product-name}/{version-number}/vspackage
 
